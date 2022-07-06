@@ -1,20 +1,20 @@
 
 <div align="right">
 
-[Portfolio](https://binelias.github.io/) |[Socials]([https://anil.pages.dev](https://www.linkedin.com/in/mrbbe/))
+[Portfolio](https://binelias.github.io/) |[Socials](https://www.linkedin.com/in/mrbbe/)
 
 </div>
 
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on RobinsonShop_DjangoRest(https://github.com/binelias/RobinsonShop-DjangoRest)
+- 🔭 I’m currently working on [RobinsonShop_DjangoRest](https://github.com/binelias/RobinsonShop-DjangoRest)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
-## 🚧 My Projects
+## 💻 My Projects
 
-- [👤 iProfiler]([https://devfolio.js.org](https://iprofiler-reacthooks.herokuapp.com/)) - Image Face Recognition app.
+- [👤 iProfiler](https://iprofiler-reacthooks.herokuapp.com/) - Image Face Recognition app.
 - [📝 To Do List](https://scintillating-tanuki-91da57.netlify.app/) - Notes app.
 
 .....explore my [other repos](https://github.com/binelias?tab=repositories) for more projects.
