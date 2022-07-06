@@ -1,7 +1,7 @@
 
 <div align="right">
 
-[Portfolio](https://binelias.github.io/) |[Socials](https://www.linkedin.com/in/mrbbe/)
+[Portfolio](https://binelias.github.io/) |[LinkedIn](https://www.linkedin.com/in/mrbbe/)
 
 </div>
 
