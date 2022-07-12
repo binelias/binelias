@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [RobinsonShop-MERN](https://github.com/binelias/RobinsonShop-MERN)
+- 🔭 I’m currently working on [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
