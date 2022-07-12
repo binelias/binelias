@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [RobinsonShop_DjangoRest](https://github.com/binelias/RobinsonShop-DjangoRest)
+- 🔭 I’m currently working on [RobinsonShop-MERN](https://github.com/binelias/RobinsonShop-MERN)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
