@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- 🔭 I’m currently working on [NDG Linux Unhatched](https://lms.netacad.com/course/view.php?id=1611288)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
