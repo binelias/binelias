@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [NDG Linux Unhatched](https://lms.netacad.com/course/view.php?id=1611288)
+- 🔭 I’m currently working on [NDG Linux Essentials v2](https://lms.netacad.com/course/view.php?id=1322064)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
