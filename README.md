@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [Amazon AWS Certified Solutions Architect Practice Questions](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/view/41/)
+- 🔭 I’m currently working on [Tutorials Dojo AWS Certified Solutions Architect Associate Practice Exams SAA-C03 2022](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/lessons/practice-exams-timed-mode-4/quizzes/aws-certified-solutions-architect-associate-practice-exam-timed-mode-set-1/)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
