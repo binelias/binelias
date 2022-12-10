@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [CCNA 200-301](https://www.youtube.com/watch?v=j-bK-EFt9cY&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=36)
+- 🔭 I’m currently working on [CCNA 200-301](https://www.youtube.com/watch?v=3ew26ujkiDI&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=53)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
