@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [CCNA 200-301](https://www.examtopics.com/exams/cisco/200-301/view/40/)
+- 🔭 I’m currently working on [CCNA 200-301](https://www.examtopics.com/exams/cisco/200-301/view/39/)
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com
 
 
