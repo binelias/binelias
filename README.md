@@ -7,9 +7,9 @@
 
 ## 👋 Hi there 
 
-- 🌱 I’m a Full Stack Developer using PERN and Django Rest Framework
-- 🔭 I’m currently working on [CCNA 200-301](https://www.examtopics.com/exams/cisco/200-301/view/39/)
-- 📫 How to reach me: bineliasmohammadrayan@gmail.com
+- 🌱 I’m an Engineer trying to enter the IT industry.
+- 🔭 I’m currently working on [CCNA 200-301](https://www.examtopics.com/exams/cisco/200-301/view/39/).
+- 📫 How to reach me: bineliasmohammadrayan@gmail.com.
 
 ## 📃 Certification
 - [CCNA Cisco Certified Network Associate](https://github.com/binelias/binelias.github.io/blob/main/assets/Certificates/Cisco%20Certified%20Network%20Associate%20certificate.pdf).
