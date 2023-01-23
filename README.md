@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m an Engineer trying to enter the IT industry.
-- 🔭 I’m currently working on [CCNA 200-301](https://www.examtopics.com/exams/cisco/200-301/view/39/).
+- 🔭 I’m currently working on [ISC² Certified in Cybersecurity(CC)](https://learn.isc2.org/d2l/le/lessons/9541/units/403431).
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com.
 
 ## 📃 Certification
