@@ -8,7 +8,7 @@
 ## 👋 Hi there 
 
 - 🌱 I’m an Engineer trying to enter the IT industry.
-- 🔭 I’m currently working on [ISC² Certified in Cybersecurity(CC)](https://learn.isc2.org/d2l/le/lessons/9541/units/403431).
+- 🔭 I’m currently working on [GCP Associate Cloud Engineer Certification : Google Cloud](https://www.udemy.com/course/google-cloud-gcp-associate-cloud-engineer-certification/).
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com.
 
 ## 📃 Certification
