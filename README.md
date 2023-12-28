@@ -7,6 +7,9 @@
 
 ## 👋 Hi there 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binelias&theme=tokyonight&show_icons=true)
+
 - 🌱 I’m an Engineer trying to enter the IT industry.
 - 🔭 I’m currently working on [GCP Associate Cloud Engineer Certification : Google Cloud](https://www.udemy.com/course/google-cloud-gcp-associate-cloud-engineer-certification/).
 - 📫 How to reach me: bineliasmohammadrayan@gmail.com.
